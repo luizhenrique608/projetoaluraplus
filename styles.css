@@ -160,7 +160,7 @@ body {
 }
 
 .botao_secundario:hover {
-    color: var(--botao-vermelho-claro);
+    color: var(--botao-vermelho);
     background-color: transparent;
-    border:  2px solid var(--botao-vermelho-claro);
+    border:  2px solid var(--botao-vermelho);
 }
